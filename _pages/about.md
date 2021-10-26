@@ -15,4 +15,4 @@ About me
 ======
 Originally from Hyderabad, India, I moved to New Delhi in 2013 to pursue a Masters in Climate Science and Policy. Since then, I've been working on issues related to environment, social vulnerability, climate policy, and development. From 2016 to 2019 I was working at The Energy and Resources Institute (TERI), New Delhi. I have fieldwork experience in India and Fiji. A lot of my project sites in India were in the Himalayan states of Uttarakhand and Fiji. My research has been published in Environmental Development, Science of the Total Environment, and the International Political Science Review.
 
-Beyond research, I love travelling and photography. Go check-out my (photos)[https://ganeshgorti.github.io/photos/]!. I also cook (a lot!) to keep my sanity, and I weild a badminton racket and a table tennis bat occasionally. 
+Beyond research, I love travelling and photography (go check-out my (photos)[https://ganeshgorti.github.io/photos/]!). I also cook (a lot!) to keep my sanity, and I weild a badminton racket and a table tennis bat occasionally. 
