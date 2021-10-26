@@ -13,6 +13,6 @@ Welcome to my website! I am a PhD student in Political Science at the University
 
 About me
 ======
-Originally from Hyderabad, India, I moved to New Delhi in 2013 to pursue a Masters in Climate Science and Policy. Since then, I've been working on issues related to environment, social vulnerability, climate policy, and development. From 2016 to 2019 I was working at The Energy and Resources Institute (TERI), New Delhi. I have extensive field work experience in Uttarakhand and Sikkim, two Himalayan states in India, and have also conducted field work in other regions in India and Fiji. My research has been published in Environmental Development, Science of the Total Environment, and the International Political Science Review.
+Originally from Hyderabad, India, I moved to New Delhi in 2013 to pursue a Masters in Climate Science and Policy. Since then, I've been working on issues related to environment, social vulnerability, climate policy, and development. From 2016 to 2019 I was working at The Energy and Resources Institute (TERI), New Delhi. I have fieldwork experience in India and Fiji. A lot of my project sites in India were in the Himalayan states of Uttarakhand and Fiji. My research has been published in Environmental Development, Science of the Total Environment, and the International Political Science Review.
 
 Beyond research, I love travelling and photography (go check-out my photos!). I also cook (a lot!) to keep my sanity, and I weild a badminton racket and a table tennis bat occasionally. 
