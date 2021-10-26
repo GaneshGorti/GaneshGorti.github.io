@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is my home on the web!"
+title: "This is Ganesh's home on the web!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
