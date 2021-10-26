@@ -26,15 +26,15 @@ Ancient India. Mahabalipuram, 2015
 
 Chasing the Northern Lights. Before Sunset. Iceland, 2017
 
-<img src="{{GaneshGorti.github.io}}/images/0407-min.jpeg" style="display: block; margin: auto;" />
+<img src="{{GaneshGorti.github.io}}/images/DSC_0407-min.jpeg" style="display: block; margin: auto;" />
 
 Looking over the Pacific. Fiji, 2019
 
-<img src="{{GaneshGorti.github.io}}/images/0686-min.jpeg" style="display: block; margin: auto;" />
+<img src="{{GaneshGorti.github.io}}/images/DSC_0686-min.jpeg" style="display: block; margin: auto;" />
 
 Mystical Sikkim. Sikkim, 2017
 
-<img src="{{GaneshGorti.github.io}}/images/0796-min.jpeg" style="display: block; margin: auto;" />
+<img src="{{GaneshGorti.github.io}}/images/DSC_0796-min.jpeg" style="display: block; margin: auto;" />
 
 The urban and the wild. Kenya, 2017
 
