@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "GaneshGorti"
+  name             : "Ganesh Gorti"
   avatar           : "profile.png"
-  bio              : "Political Science PhD student studying environment, development, and public policy"
+  bio              : "Political Science PhD student | Environment, development, and public policy"
   location         : "Boulder, CO"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DA3Ha20AAAAJ&hl=en"
-  email            :  "Ganesh<dot>Gorti<at>colorado<dot>edu"
+  email            :  "Ganesh.Gorti@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
