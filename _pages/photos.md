@@ -22,7 +22,7 @@ Fly away. New Delhi, 2016
 
 Ancient India. Mahabalipuram, 2015
 
-<img src="{{GaneshGorti.github.io}}/images/test2.jpeg" style="display: block; margin: auto;" />
+<img src="{{GaneshGorti.github.io}}/images/test1.jpeg" style="display: block; margin: auto;" />
 
 Chasing the Northern Lights. Before Sunset. Iceland, 2017
 
