@@ -8,7 +8,7 @@ redirect_from:
 
 <img src="{{GaneshGorti.github.io}}/images/Gangtok-min.jpeg" style="display: block; margin: auto;" />
 
-Rainy evening in Gangtok. Sikkim, 2016
+Staring into infinity. Sikkim, 2016
 
 <img src="{{GaneshGorti.github.io}}/images/smokin-min.jpeg" style="display: block; margin: auto;" />
 
@@ -24,7 +24,7 @@ Ancient India. Mahabalipuram, 2015
 
 <img src="{{GaneshGorti.github.io}}/images/test1-min.jpeg" style="display: block; margin: auto;" />
 
-Chasing the Northern Lights. Before Sunset. Iceland, 2017
+Mid-Atlantic Ridge. Iceland, 2017
 
 <img src="{{GaneshGorti.github.io}}/images/DSC_0407-min.jpeg" style="display: block; margin: auto;" />
 
@@ -36,7 +36,7 @@ Mystical Sikkim. Sikkim, 2017
 
 <img src="{{GaneshGorti.github.io}}/images/DSC_0796-min.jpeg" style="display: block; margin: auto;" />
 
-The urban and the wild. Kenya, 2017
+The wild and the urban. Kenya, 2017
 
 
 
