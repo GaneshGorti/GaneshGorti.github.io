@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/GaneshGorti_CV_121421.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{.BASE_PATH }}/files/GaneshGorti_CV_121421.pdf" width="600" height="700" type='application/pdf'>
+
 
