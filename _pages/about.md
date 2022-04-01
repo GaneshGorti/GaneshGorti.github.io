@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a PhD student in Political Science at the University of Colorado Boulder and a member of the Centre for Governance of Natural Resources at the Institute of Behavioral Science. I study environmental policy, development, and public policy in South Asia.
+Welcome to my website! I am a PhD candidate in Political Science at the University of Colorado Boulder and a member of the Centre for Governance of Natural Resources at the Institute of Behavioral Science. I study environmental policy, development, and public policy in South Asia.
 
 
 About me
