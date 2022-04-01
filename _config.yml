@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ganesh Gorti"
 title_separator          : "-"
 name                     : &name "Ganesh Gorti"
-description              : &description "PhD Student at the University of Colorado Boulder"
+description              : &description "PhD candidate at the University of Colorado Boulder"
 url                      : https://GaneshGorti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GaneshGorti.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ganesh Gorti"
   avatar           : "IMG_3057-modified.png"
-  bio              : "Political Science PhD student | Environment, development, and public policy"
+  bio              : "Political Science PhD candidate | Environment, development, and public policy"
   location         : "Boulder, CO"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DA3Ha20AAAAJ&hl=en"
