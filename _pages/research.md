@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Development policies**
+<h2> Development policies </h2>
 
 <h3> 1. The erosive force of inequalities on citizens’ confidence in their governments: A study of efforts in rural India to restore confidence in local government (with Nathan J Cook and Krister Andersson) </h3>
 
@@ -27,7 +27,7 @@ in governmental organizations operating at broader spatial scales.
 
 *Draft available on request*
 
-**Climate and environmental policies**
+<h2> Climate and environmental policies </h2>
 
 <h3> 1. Promoting Women’s Leadership Under Environmental Decentralization: The Roles of Domestic Policy, Foreign Aid, and Population Change (with Nathan J Cook, Michelle Benedum, and Sitashma Thapa). </h3>
 
