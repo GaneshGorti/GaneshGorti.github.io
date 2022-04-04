@@ -7,7 +7,7 @@ author_profile: true
 
 **Development policies**
 
-<h4> The erosive force of inequalities on citizens’ confidence in their governments: A study of efforts in rural India to restore confidence in local government (*with Nathan J Cook and Krister Andersson*) </h4>
+<h4> 1. The erosive force of inequalities on citizens’ confidence in their governments: A study of efforts in rural India to restore confidence in local government (*with Nathan J Cook and Krister Andersson*) </h4>
 
 Deeply entrenched socioeconomic inequalities complicate public service delivery, especially for
 local governments in developing countries. In jurisdictions characterized by deep economic
