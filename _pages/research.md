@@ -4,6 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+Development policies
+
+1. 
+
+Climate and environmental policy
+
 1. Prabhat Upadhyaya, Manish Kumar Shrivastava, **Ganesh Gorti**, and Saliem Fakir. Capacity building for proportionate climate policy: Lessons from India and south Africa. International Political Science Review, 42:130–145, 2021.
 Available [here](https://doi.org/10.1177/0192512120963883)
 
