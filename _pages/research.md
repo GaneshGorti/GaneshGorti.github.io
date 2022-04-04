@@ -25,7 +25,7 @@ expectations. We also find evidence that these apparent positive effects are not
 institutions alone, but can also weaken the negative association between inequalities and trust
 in governmental organizations operating at broader spatial scales.
 
-*Draft available on request*
+*Draft available [here](https://drive.google.com/file/d/1wdtowsSYaSHEVOjwHvXkwg3rmHLdTDMn/view?usp=sharing)*
 
 <h2> Climate and environmental policies </h2>
 
