@@ -13,5 +13,8 @@ main:
   - title: "Photos"
     url: /photos/
     
+  - title: "Resume"
+    url: /resume/
+    
   
     
