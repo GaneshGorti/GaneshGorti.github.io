@@ -3,6 +3,8 @@ layout: archive
 title: "Photos"
 permalink: /photos/
 author_profile: true
+redirect_from:
+  - /photos
 ---
 
 <img src="{{GaneshGorti.github.io}}/images/Gangtok-min.jpeg" style="display: block; margin: auto;" />
