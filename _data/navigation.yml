@@ -10,11 +10,13 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Resume"
+    url: /resume/    
+    
   - title: "Photos"
     url: /photos/
     
-  - title: "Resume"
-    url: /resume/
+  
     
   
     
