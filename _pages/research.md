@@ -77,5 +77,5 @@ Mountain ecosystems, owing to their skewed development trends and amplified clim
 
 *Available [here](https://doi.org/10.1016/j.envdev.2019.02.001)*
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ishitagopal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ishitagopal/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/feed/@ishitagopal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ishitagopal/0" alt="Recent Article 0"> 
 
