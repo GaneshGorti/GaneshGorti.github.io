@@ -78,8 +78,7 @@ Mountain ecosystems, owing to their skewed development trends and amplified clim
 *Available [here](https://doi.org/10.1016/j.envdev.2019.02.001)*
 
 <div id=”retainable-rss-embed” 
-data-rss=”https://medium.com/feed/ishitagopal,
-https://medium.com/feed/vue-mastery"
+data-rss=”https://medium.com/feed/ishitagopal"
 data-maxcols=”3" 
 data-layout=”grid” 
 data-poststyle=”inline” 
@@ -87,6 +86,6 @@ data-readmore=”Read the rest”
 data-buttonclass=”btn btn-primary” 
 data-offset=”-100"></div>
                   
-<script src="https://www.twilik.com/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
+<script src="https://www.twilik.com/assets/ishitagopal/rss-embed/ishitagopal-rss-embed.js"></script>
 
                   
