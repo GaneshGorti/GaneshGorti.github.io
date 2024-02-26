@@ -7,6 +7,6 @@ redirect_from:
   - /cv
 ---
 
-<embed src="{{.BASE_PATH }}/files/CV_GG_240623.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{.BASE_PATH }}/files/CV_GG_260224.pdf" width="600" height="700" type='application/pdf'>
 
 
