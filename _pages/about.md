@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Postdoctoral Research Associate at the Mercator Research Institute on Global Commons and Climate Change (MCC) in Berlin. I have a PhD in Political Science (Comparative Politics and Public Policy) from the University of Colorado Boulder. I study development and environmental politics with a specific emphasis on South Asia.
+Welcome to my website! I am a Postdoctoral Research Associate at the [Mercator Research Institute on Global Commons and Climate Change (MCC)] (https://www.mcc-berlin.net/en/index.html) in Berlin. I have a PhD in Political Science (Comparative Politics and Public Policy) from the University of Colorado Boulder. I study development and environmental politics with a specific emphasis on South Asia.
 
 
 About me
