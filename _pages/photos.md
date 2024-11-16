@@ -39,6 +39,10 @@ Mystical Sikkim. Sikkim, 2017
 
 The wild and the urban. Kenya, 2017
 
+<img src="{{GaneshGorti.github.io}}/images/DSC_0141-min.jpeg" style="display: block; margin: auto;" />
+
+Jazzing away. NOLA, 2024
+
 
 
 
