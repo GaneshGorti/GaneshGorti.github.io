@@ -14,4 +14,4 @@ About me
 ======
 I grew up in Hyderabad, a southern Indian city. In 2013, I moved to New Delhi to pursue a Masters in Climate Science and Policy. Since then, I've been working on issues related to the environment, climate policy, and development. From 2016 to 2019 I worked as a Research Associate at The Energy and Resources Institute (TERI), New Delhi on issues related to climate change adaptation and mitigation. My work took me to many field sites in India (especially in the Himalayan states of Uttarakhand and Sikkim) and Fiji, and I am indebted to these communities for their time and for shaping my research. 
 
-Beyond research, I love travelling and photography (go check-out my [Photos](/photos/)!). GO check this out.
+Beyond research, I love travelling and photography (go check-out my [Photos](/photos/)!).
