@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2> Development policies </h2>
+<h2> Political behaviour </h2>
 
 <h3> 1. The erosive force of inequalities on citizens’ confidence in their governments: A study of efforts in rural India to restore confidence in local government (with Nathan J Cook and Krister Andersson) </h3>
 
@@ -23,14 +23,13 @@ R&R at PNAS
 
 Under review 
 
-<h2> Climate and environmental policies </h2>
-
 <h3> 5. Promoting Women’s Leadership Under Environmental Decentralization: The Roles of Domestic Policy, Foreign Aid, and Population Change (with Nathan J Cook, Michelle Benedum, and Sitashma Thapa). </h3>
 
-In recent decades, countries across Asia, Latin America, and Africa have adopted environmental decentralization reforms to encourage community-based management of water resources, forests, fisheries, and other natural resources. While such reforms are meant to empower rural people to participate in environmental governance, experiences from recent decades suggest that these reforms often suffer from gendered inequalities in participation and leadership. We use the case of a forestry-sector decentralization reform in Nepal to test the importance of domestic policy, foreign aid, and population change for promoting women’s leadership under environmental decentralization. Using quasi-experimental research designs and data on local natural resource
-governance committees formed in villages across the country under the reform, we find that a non-binding government guideline encouraging committees to prioritize women’s leadership resulted in an estimated 7.5-percent increase in the number of female leaders on these committees. We also show that locally-targeted, sector-specific foreign aid projects appear to have a strong impact, with rates of women’s leadership that are estimated to be 24- percent higher in committees formed in areas with projects, compared to rates in comparable committees formed in areas without such projects at the time of formation. Finally, we instrument for international male out-migration in rural Nepal, and find no apparent effect of international male out-migration on the promotion of women’s leadership in local natural resource governance committees. The results highlight the importance of domestic policy, even without stringent enforcement, and targeted foreign aid projects for promoting women’s leadership under environmental decentralization.
+In recent decades, countries across Asia, Latin America, and Africa have adopted environmental decentralization reforms to encourage community-based management of water resources, forests, fisheries, and other natural resources. While such reforms are meant to empower rural people to participate in environmental governance, experiences from recent decades suggest that these reforms often suffer from gendered inequalities in participation and leadership. We use the case of a forestry-sector decentralization reform in Nepal to test the importance of domestic policy, foreign aid, and population change for promoting women’s leadership under environmental decentralization. Using quasi-experimental research designs and data on local natural resource governance committees formed in villages across the country under the reform, we find that a non-binding government guideline encouraging committees to prioritize women’s leadership resulted in an estimated 7.5-percent increase in the number of female leaders on these committees. We also show that locally-targeted, sector-specific foreign aid projects appear to have a strong impact, with rates of women’s leadership that are estimated to be 24- percent higher in committees formed in areas with projects, compared to rates in comparable committees formed in areas without such projects at the time of formation. Finally, we instrument for international male out-migration in rural Nepal, and find no apparent effect of international male out-migration on the promotion of women’s leadership in local natural resource governance committees. The results highlight the importance of domestic policy, even without stringent enforcement, and targeted foreign aid projects for promoting women’s leadership under environmental decentralization.
 
 *Available [here](https://doi.org/10.1016/j.envsci.2022.11.007)*
+
+<h2> Climate and environment </h2>
 
 <h3> 6. Indoor Heat Measurement Data from Low-income Households in Rural and Urban South Asia (with Premsagar Tasgaonkar, Dipak Zade, Sana Ehsan, Nabir Mamnun, Christian Siderius, and Tanya Singh). Nature: Scientific Data, 9 (1), 1-11 </h3>
 
