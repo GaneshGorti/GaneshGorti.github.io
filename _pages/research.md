@@ -9,15 +9,15 @@ author_profile: true
 
 <h3> 1. The erosive force of inequalities on citizens’ confidence in their governments: A study of efforts in rural India to restore confidence in local government (with Nathan J Cook and Krister Andersson) </h3>
 
-R&R at Local Government Studies
+Accepted at Local Government Studies
 
-<h3> 2. Voting, Winning and Losing, and Satisfaction with Democracy (with Shane Singh and Jaroslav Tir) </h3>
+<h3> 2. The Point is not a Point: Dynamic, Differentiated, Multi-Dimensional and Systemic Risk of Climate-Linked Negative Social Tipping (with Fanny Thornton et al.) </h3>
+
+Accepted at PNAS
+
+<h3> 3. Voting, Winning and Losing, and Satisfaction with Democracy (with Shane Singh and Jaroslav Tir) </h3>
 
 R&R at American Political Science Review
-
-<h3> 3. The Point is not a Point: Dynamic, Differentiated, Multi-Dimensional and Systemic Risk of Climate-Linked Negative Social Tipping (with Fanny Thornton et al.) </h3>
-
-R&R at PNAS
 
 <h3> 4. Using Ranking Tasks to Strengthen Survey Experiments (with Jaroslav Tir and Shane Singh) </h3>
 
