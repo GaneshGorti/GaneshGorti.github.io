@@ -17,11 +17,11 @@ Deeply entrenched socioeconomic inequalities complicate public service delivery,
 
 <h3> 2. The Point is not a Point: Dynamic, Differentiated, Multi-Dimensional and Systemic Risk of Climate-Linked Negative Social Tipping (with Fanny Thornton et al.) </h3>
 
-*Accepted at PNAS*
+*Accepted at Proceedings of the National Academy of Sciences (PNAS)*
 
 <h3> 3. Voting, Winning and Losing, and Satisfaction with Democracy (with Shane Singh and Jaroslav Tir) </h3>
 
-*Conditionally accepted at the American Political Science Review*
+*Conditionally accepted at the American Political Science Review (APSR)*
 
 <h3> 4. Using Ranking Tasks to Strengthen Survey Experiments (with Jaroslav Tir and Shane Singh) </h3>
 
